@@ -7,9 +7,9 @@ This pipeline performs large-scale comparative analysis of RNA–protein interac
 
 The workflow was designed to analyze up to 300 complexes generated with HDOCK, corresponding to three experimental conditions:
 
-- Wild-type helicase/circRNA
-- UAP56/circRNA
-- AAAA mutant/circRNA
+- Wild-type helicase EHI_151600/circRNA
+- UAP56 Human/circRNA
+- EHI_151600 AAAA mutant/circRNA
 
 The pipeline automatically:
 
