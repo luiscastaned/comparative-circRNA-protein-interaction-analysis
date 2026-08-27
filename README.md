@@ -1,7 +1,7 @@
 # comparative-circRNA-protein-interaction-analysis
 Automated comparative analysis of circRNA–protein interactions using HDOCK docking complexes.
 
-# 🧬 Comparative circRNA–Protein Interaction Analysis Pipeline
+# Comparative circRNA–Protein Interaction Analysis Pipeline
 
 This pipeline performs large-scale comparative analysis of RNA–protein interactions using docking-derived structural complexes.
 
